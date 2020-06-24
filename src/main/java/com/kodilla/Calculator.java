@@ -2,7 +2,7 @@ package com.kodilla;
 
 public class Calculator {
     public void addition(){
-    System.out.println("Addition done");
+        System.out.println("Addition done");
     }
     public void subtraction(){
         System.out.println("Subtraction done");
